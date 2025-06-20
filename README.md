@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋 I'm Bartłomiej</h1>
+## 👨‍💻 About me
 
 I'm a CS student at AGH University in Cracow and a Web Developer at MANA Marketing Agency. In my free time, I work on personal projects, mostly in Java, which I've been working with since 2019. Currently I'm learning React.js
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bart%C5%82omiejskowron/)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=coffeescript&logoColor=white)
