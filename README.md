@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋 I'm Bartłomiej</h1>
 
-## 💫 About Me:
 I'm a CS student at AGH University in Cracow and a Web Developer at MANA Marketing Agency. In my free time, I work on personal projects, mostly in Java, which I've been working with since 2019. Currently I'm learning React.js
 
 ## 🌐 Connect with me:
