@@ -2,11 +2,7 @@
 
 I'm a CS student at AGH University in Cracow and a Web Developer at MANA Marketing Agency. My main focus is full-stack product development, with Java (Spring Boot) and React/Next.js as my core technology stack.
 
-## 🌐 Connect with me:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bart%C5%82omiejskowron/)
-
 ## 💻 Tech Stack:
-
 
 ### <p align="left">Languages</p>  
 
